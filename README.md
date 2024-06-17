@@ -21,9 +21,8 @@
 - Contribuir para projetos inovadores que impactam positivamente a experiência do usuário.
 
 🌐 **Conecte-se Comigo**
-- [LinkedIn]()
-- [Twitter](https://twitter.com/seutwitter)
-- [Email](mailto:seuemail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/matheus-g-costa/)
+- [Email](mailto:matheus.magui@gmail.com)
 
 ---
 
